@@ -14,7 +14,7 @@ app = FastAPI(
     title='Game Scores API',
     description='API for tracking game scores.',
     version='1.0.0',
-    servers=[{'url': 'http://44.231.144.160:8000'}],
+    servers=[{'url': 'http://35.163.187.47'}],
 )
 
 
